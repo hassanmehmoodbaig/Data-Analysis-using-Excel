@@ -26,15 +26,12 @@ Exploratory Data Analysis will allow us to understand the data better. We will:
 - Explore relationships between different variables
 - Use descriptive statistics to provide insights into player performance
 
-Here are some questions we will be answering using this dataset.
+**Here are some questions we will be answering using this dataset:**
 
-*1. Which team has the most players in the dataset?*
-
-*2. What are the average Point Per Game (PPG), Rebounds Per Game (RPG), and Assists Per Game (APG)?*
-
-*3. Identify Players with PPG above 20 and APG above 5.*
-
-*4. Which team has the highest and lowest average usage percentage (USG%)*
+1. Which team has the most players in the dataset?
+2. What are the average Points Per Game (PPG), Rebounds Per Game (RPG), and Assists Per Game (APG)?
+3. Identify players with PPG above 20 and APG above 5.
+4. Which team has the highest and lowest average usage percentage (USG%)?
 
 ### Step 4: Data Visualization Using Excel
 In this step, we will create various visualizations in Excel to present our findings. This includes:
@@ -42,21 +39,25 @@ In this step, we will create various visualizations in Excel to present our find
 - Pivot tables for comparative analysis
 - Dashboards to provide an interactive overview of the data
 
-Here are some questions we will be answering using this dataset.
+**Here are some questions we will be answering using this dataset:**
 
-*1. Visualize the distribution of players by team*
-
-*2. Show the distribution of player positions (POS)*
-
-*3. Compare the average of PPG, RPG, APG across different teams*
-
-*4. Visualize the relation of PPG and Minutes Per Game (MPG)*
+1. Visualize the distribution of players by team.
+2. Show the distribution of player positions (POS).
+3. Compare the average of PPG, RPG, APG across different teams.
+4. Visualize the relationship between PPG and Minutes Per Game (MPG).
 
 ### Step 5: Advanced Data Analysis
 Finally, we will dive deeper into advanced analytical techniques, such as:
 - Regression analysis to predict player performance
 - Clustering to group similar players or teams
 - Time series analysis to observe performance trends over the playoff period
+
+**Here are some questions we will be answering using this dataset:**
+
+1. Calculate the average Offensive Rating (ORtg) and Defensive Rating (DRtg) for each team.
+2. Analyze the impact of a player's age on performance metrics (PPG, RPG, APG).
+3. Identify players with the highest combined performance metrics (Points + Rebounds + Assists).
+4. Determine the top player in each position (Guard, Forward, Center) based on PPG.
 
 I did all these steps on a spreadsheet, you can also view it
 
