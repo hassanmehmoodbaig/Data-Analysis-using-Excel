@@ -1,7 +1,6 @@
-
 # Data Analysis Using Excel
 
-This repository contains my project focused on data analysis using Microsoft Excel. It includes datasets, analysis files, and visualizations that demonstrate various techniques and methods for extracting insights from data.
+This repository contains my project focused on data analysis using Microsoft Excel. It includes datasets, analysis files, and visualizations demonstrating various techniques and methods for extracting insights from data.
 
 ## Contents
 - **Datasets:** Source data used for analysis
